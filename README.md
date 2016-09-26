@@ -1,7 +1,7 @@
 Assumption:
 
 1. There is only one order with one or more items in one text file.
-2. Input file containt should be in formatted in : [Quantity] [Name or description] at [Price] (e.g. 10 bags of mushroon at 20). The output will look like: 10 bags of imported mushroon at 20. Based on the other chocolate inputs, the output should be 1 box of imported chocolates: 11.85. Therefore, I modified the input content in my unit test, so output would in the same format as other examples.
+2. Input file contains should be in formatted in : [Quantity] [Name or description] at [Price] (e.g. 10 bags of mushroom at 20). The output will look like: 10 bags of imported mushroon at 20. Based on the other chocolate inputs, the output should be 1 box of imported chocolates: 11.85. Therefore, I modified the input content in my unit test, so output would in the same format as other examples.
 
 Instruction:
 
